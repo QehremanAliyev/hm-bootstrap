@@ -1,0 +1,53 @@
+.first-section,.fifth-section {
+    background-color: black;
+}
+
+.ml-1 {
+    margin-left: 15px;
+}
+
+.circle1 {
+    height: 150px;
+    width: 150px;
+    background-color: blueviolet;
+    top: 250px;
+    left: 270px;
+}
+
+.circle2 {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(229, 139, 74);
+    top: 250px;
+    left: 350px;
+}
+
+
+.betene {
+    background-color: blueviolet;
+    color: white;
+    border: 1px solid blueviolet;
+}
+
+.betene1 {
+    background-color: black;
+    border: 1px solid blueviolet;
+    color: blueviolet;
+    margin-top: 10px;
+}
+img{
+    margin: 5px;
+}
+
+.brd{
+    border-radius: 20px !important;
+}
+
+.qutu{
+    margin-top: 15px;
+}
+
+.third-section{
+    background-color: rgb(140, 77, 199);
+    margin-top: 45px;
+}
